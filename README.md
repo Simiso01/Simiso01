@@ -5,10 +5,15 @@ IT student building Android and ASP.NET Core apps, plus small web tools for stud
 ## What I work with
 
 - **Mobile:** Kotlin, Android, Room, SQLite
+- **Java:** desktop simulations with Swing
 - **Web:** C#, ASP.NET Core MVC, HTML, CSS, JavaScript
 - **Data:** SQL Server, local databases
 
 ## Projects
+
+### [Emberfall](https://github.com/Simiso01/emberfall)
+
+A real-time falling-sand simulation. Sand, water, lava, fire, acid, and gunpowder react on a grid. Built with Java and Swing.
 
 ### [Ledger Lite](https://github.com/Simiso01/ledger-lite)
 
