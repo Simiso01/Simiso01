@@ -11,6 +11,10 @@ IT student building Android and ASP.NET Core apps, plus small web tools for stud
 
 ## Projects
 
+### [Skylight](https://github.com/Simiso01/skylight)
+
+Live weather for any city. Current conditions come from OpenWeatherMap station data, with a 24-hour and five-day forecast.
+
 ### [Emberfall](https://github.com/Simiso01/emberfall)
 
 A real-time falling-sand simulation. Sand, water, lava, fire, acid, and gunpowder react on a grid. Built with Java and Swing.
